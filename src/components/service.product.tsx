@@ -26,9 +26,9 @@ export default async function ServiceProduct() {
             dicta sunt explicabo.
           </p>
         </div>
-        <div>
+        
           <AnimatedServices services={services as unknown as Services[]} />
-        </div>
+        
       </div>
     </section>
   );
