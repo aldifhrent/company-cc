@@ -12,7 +12,7 @@ export default async function ServiceProduct() {
           <Image src="./acc.svg" width={73} height={78} alt="Acce" />
         </div>
 
-        <div className="max-w-[400px] lg:w-[700px]">
+        <div className="w-[1000px] flex flex-col">
           <h1 className="text-[48px] font-semibold">Our Services</h1>
           <h2 className="font-bold mt-6">
             laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
