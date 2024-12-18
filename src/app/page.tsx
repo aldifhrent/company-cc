@@ -1,8 +1,10 @@
 import AboutUs from "@/components/about.us";
+import Footer from "@/components/footer";
 import Header from "@/components/header";
 import Hero from "@/components/hero";
 import Offers from "@/components/offers";
 import ServiceProduct from "@/components/service.product";
+import Testimonials from "@/components/testimonials";
 
 export default function Home() {
   return (
@@ -13,8 +15,8 @@ export default function Home() {
         <AboutUs />
         <Offers />
         <ServiceProduct />
-        {/* Teams */}
-        {/* Footer */}
+        <Testimonials/>
+        <Footer/>
       </main>
     </div>
   );

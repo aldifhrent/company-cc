@@ -8,7 +8,7 @@ export default function AboutUs() {
             src="./about.svg"
             width={545}
             height={723}
-            className="min-w-[500px]"
+            className="min-w-[300px]"
             alt="About Us"
           />
         </div>
@@ -20,7 +20,7 @@ export default function AboutUs() {
           <h2>
             We build custom software that drives innovation and social impact
           </h2>
-          <p className="w-auto xl:w-[1047px] text-[18px] lg:text-[24px]">
+          <p className="w-fit text-[20px]">
             OBS Tech is one of the fastest-growing IT companies providing
             various solutions and services across industries. We provide
             complete solutions that include the development of mobile apps, web

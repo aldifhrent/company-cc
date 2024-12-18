@@ -91,7 +91,7 @@ export const AnimatedServices = ({
                       width={500}
                       height={500}
                       draggable={false}
-                      className="h-full w-full rounded-3xl object-cover object-center w-[500px]"
+                      className="h-full rounded-3xl object-cover object-center w-[500px]"
                     />
                   </motion.div>
                 );
